@@ -16,6 +16,9 @@
 
 This repository contains the source code for the `Mona Gallery` vulnerable web application. The exercises for this workshop can be found in the `exercises.md` files. 
 
+# Slack OAuth Access Token
+VAR_17 = 'xoxb-730191371696-1413868247813-IG7Z6nYevC2hdviE3aJhb5kY'
+
 ### Prerequisites
 
 Please make sure that you have all the prerequisites in place before we start of the wokshop
